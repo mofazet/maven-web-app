@@ -101,8 +101,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-snapshots/</url>
+	      <name>Visa debit Snapshot Nexus Repository </name>
+	      <url>http://34.238.85.116:8081/repository/visadebit_project/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
