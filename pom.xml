@@ -96,12 +96,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://34.238.85.116:8081/repository/maven-releases/</url>
+	      <url>http:34.238.85.116:8081/repository/maven-releases/</url>
 	    </repository> 
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Visa debit Snapshot Nexus Repository </name>
-	      <url>http://34.238.85.116:8081/repository/maven-snapshots/</url>
+	      <url>http:34.238.85.116:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
